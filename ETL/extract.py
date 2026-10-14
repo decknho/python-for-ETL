@@ -17,3 +17,4 @@ endpoint_products = "https://dummyjson.com/products" # Endpoint para obter dados
 
 data_users = extract_data(endpoint_users) # Extrai os dados de usuários
 data_products = extract_data(endpoint_products) # Extrai os dados de produtos
+
